@@ -1,1 +1,2 @@
-# arwetrytuty
+# trexfinal
+juego del trex infinito
